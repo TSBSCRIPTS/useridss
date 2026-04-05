@@ -13,11 +13,11 @@
   },
   "1029099741411283185": {
     "discord_id": "1029099741411283185",
-    "sub_tier": "Regular",
-    "base_slots": 1,
+    "sub_tier": "Premium",
+    "base_slots": 3,
     "bonus_slots": 0,
     "roblox_ids": [],
-    "expires": 1775476444420,
-    "warned": true
+    "expires": 1775484758696,
+    "warned": false
   }
 }
