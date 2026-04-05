@@ -15,9 +15,9 @@
     "discord_id": "1029099741411283185",
     "sub_tier": "Premium",
     "base_slots": 3,
-    "bonus_slots": 0,
+    "bonus_slots": 2,
     "roblox_ids": [],
     "expires": 1775484758696,
-    "warned": false
+    "warned": true
   }
 }
