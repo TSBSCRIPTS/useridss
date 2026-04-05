@@ -28,15 +28,6 @@
     "expires": 1776706415394,
     "warned": false
   },
-  "1149767317698388129": {
-    "discord_id": "1149767317698388129",
-    "sub_tier": "Regular",
-    "base_slots": 1,
-    "bonus_slots": 0,
-    "roblox_ids": [],
-    "expires": 1775584956202,
-    "warned": false
-  },
   "619948542882086924": {
     "discord_id": "619948542882086924",
     "sub_tier": "Platinum Elite",
@@ -62,6 +53,15 @@
     "bonus_slots": 0,
     "roblox_ids": [],
     "expires": 1775585714694,
+    "warned": false
+  },
+  "1467123588246147246": {
+    "discord_id": "1467123588246147246",
+    "sub_tier": "Regular",
+    "base_slots": 1,
+    "bonus_slots": 0,
+    "roblox_ids": [],
+    "expires": 1777406069246,
     "warned": false
   }
 }
