@@ -465,7 +465,9 @@
     "sub_tier": "Freak-a-Leak",
     "base_slots": 6,
     "bonus_slots": 0,
-    "roblox_ids": [],
+    "roblox_ids": [
+      "4671481563"
+    ],
     "expires": 1778736324864,
     "warned": false
   }
