@@ -154,18 +154,6 @@
     "expires": 1833384450041,
     "warned": false
   },
-  "1419456340362788896": {
-    "discord_id": "1419456340362788896",
-    "sub_tier": "Regular",
-    "base_slots": 1,
-    "bonus_slots": 2,
-    "roblox_ids": [
-      "10855955511",
-      "10864731965"
-    ],
-    "expires": 1777918583497,
-    "warned": true
-  },
   "177153269179613184": {
     "discord_id": "177153269179613184",
     "sub_tier": "Regular",
