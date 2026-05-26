@@ -245,5 +245,14 @@
     ],
     "expires": 1783012723789,
     "warned": false
+  },
+  "1490535437595574292": {
+    "discord_id": "1490535437595574292",
+    "sub_tier": "Platinum Elite",
+    "base_slots": 10,
+    "bonus_slots": 0,
+    "roblox_ids": [],
+    "expires": 1783290792294,
+    "warned": false
   }
 }
