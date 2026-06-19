@@ -307,7 +307,9 @@
     "sub_tier": "Event Special",
     "base_slots": 5,
     "bonus_slots": 0,
-    "roblox_ids": [],
+    "roblox_ids": [
+      "9401564432"
+    ],
     "expires": 1785292420649,
     "warned": false
   }
