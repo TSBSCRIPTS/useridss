@@ -407,10 +407,8 @@
     "base_slots": 10,
     "bonus_slots": 0,
     "roblox_ids": [],
-    "expires": 1787065753509,
+    "expires": 1787108399208,
     "warned": false,
-    "paused": true,
-    "remainingMs": 2533764513,
-    "pausedAt": 1784531988996
+    "paused": false
   }
 }
