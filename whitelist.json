@@ -266,7 +266,9 @@
     "sub_tier": "Premium",
     "base_slots": 3,
     "bonus_slots": 0,
-    "roblox_ids": [],
+    "roblox_ids": [
+      "11345820740"
+    ],
     "expires": 1786845609872,
     "warned": false
   },
