@@ -333,7 +333,9 @@
     ],
     "expires": 1787396292078,
     "warned": false,
-    "paused": false
+    "paused": true,
+    "remainingMs": 1965935295,
+    "pausedAt": 1785430356783
   },
   "625180075351998469": {
     "discord_id": "625180075351998469",
@@ -406,7 +408,7 @@
       "11337293881"
     ],
     "expires": 1785528391511,
-    "warned": false
+    "warned": true
   },
   "1419456340362788896": {
     "discord_id": "1419456340362788896",
