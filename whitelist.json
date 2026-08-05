@@ -512,5 +512,14 @@
     ],
     "expires": 1792798806476,
     "warned": false
+  },
+  "1327783854206881803": {
+    "discord_id": "1327783854206881803",
+    "sub_tier": "Freak-a-Leak",
+    "base_slots": 6,
+    "bonus_slots": 0,
+    "roblox_ids": [],
+    "expires": 1788652433295,
+    "warned": false
   }
 }
