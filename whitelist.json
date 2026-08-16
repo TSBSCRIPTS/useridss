@@ -515,7 +515,14 @@
     "sub_tier": "Platinum Elite",
     "base_slots": 10,
     "bonus_slots": 0,
-    "roblox_ids": [],
+    "roblox_ids": [
+      "11519790614",
+      "11519804999",
+      "11519867994",
+      "11519905151",
+      "11519911755",
+      "11520082491"
+    ],
     "expires": 1788712196407,
     "warned": false
   }
