@@ -542,7 +542,9 @@
     "sub_tier": "Regular",
     "base_slots": 1,
     "bonus_slots": 0,
-    "roblox_ids": [],
+    "roblox_ids": [
+      "10480715252"
+    ],
     "expires": 1788719699182,
     "warned": false
   }
