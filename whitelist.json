@@ -556,5 +556,14 @@
     ],
     "expires": 1788723513426,
     "warned": false
+  },
+  "1418698496613290015": {
+    "discord_id": "1418698496613290015",
+    "sub_tier": "Event Special",
+    "base_slots": 5,
+    "bonus_slots": 0,
+    "roblox_ids": [],
+    "expires": 1791823428663,
+    "warned": false
   }
 }
