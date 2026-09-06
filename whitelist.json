@@ -199,19 +199,6 @@
     "remainingMs": 2305555551,
     "pausedAt": 1788155178429
   },
-  "1319375264798740561": {
-    "discord_id": "1319375264798740561",
-    "sub_tier": "Event Special",
-    "base_slots": 5,
-    "bonus_slots": 0,
-    "roblox_ids": [
-      "11303528540",
-      "11309509550",
-      "11309539854"
-    ],
-    "expires": 1788721653441,
-    "warned": true
-  },
   "1209677267802914818": {
     "discord_id": "1209677267802914818",
     "sub_tier": "Premium",
