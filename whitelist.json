@@ -121,11 +121,9 @@
     "roblox_ids": [
       "11409395107"
     ],
-    "expires": 1789831024239,
+    "expires": 1792959089292,
     "warned": false,
-    "paused": true,
-    "remainingMs": 1399353738,
-    "pausedAt": 1788431670501
+    "paused": false
   },
   "734905144386519061": {
     "discord_id": "734905144386519061",
